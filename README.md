@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Christian Pierotti
 
-You can use the [editor on GitHub](https://github.com/cpierotti/cpierotti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estudiante de Ingeniería de sistemas de la Universidad del Bosque con sólidos conocimientos en informática para el diseño, construcción y gestión de sistemas de información.
 
 ### Markdown
 
